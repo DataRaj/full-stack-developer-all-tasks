@@ -1,18 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Here is a task-3 Source from where reactjs based front-end design is implemented
+src: https://www.figma.com/file/8w4avLSVtO7FyrWo18Kg2V/Developers?type=design&node-id=2-12&mode=design&t=uJ3IJTM782wCtgZa-0
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
